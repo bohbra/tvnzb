@@ -1,0 +1,150 @@
+﻿<?xml version="1.0" standalone="yes"?>
+<TVSeries>
+  <Show>
+    <Name>How To Make It In America</Name>
+    <LocalSeason>01</LocalSeason>
+    <LocalEpisode>04</LocalEpisode>
+    <LatestSeason>01</LatestSeason>
+    <LatestEpisode>06</LatestEpisode>
+    <LatestAirtime>Mar/21/2010</LatestAirtime>
+    <LatestTitle>Good Vintage</LatestTitle>
+    <LatestAbsoluteEpisode />
+    <NextEpisode>07</NextEpisode>
+    <NextAirtime>Mar/28/2010</NextAirtime>
+    <NextTitle>Keep on Truck'n</NextTitle>
+    <NextAbsoluteEpisode />
+    <Format />
+    <Language />
+    <SearchBy>Season x Episode</SearchBy>
+    <ShowURL>http://www.tvrage.com/shows/id-24569</ShowURL>
+    <WeeklyAirtime>Mar/28/2010 Sunday 10:00 pm</WeeklyAirtime>
+    <LastUpdate>3/26/2010 10:42:49 AM</LastUpdate>
+    <NextSeason>01</NextSeason>
+  </Show>
+  <Show>
+    <Name>Lost</Name>
+    <LocalSeason>06</LocalSeason>
+    <LocalEpisode>06</LocalEpisode>
+    <LatestSeason>06</LatestSeason>
+    <LatestEpisode>09</LatestEpisode>
+    <LatestAirtime>Mar/23/2010</LatestAirtime>
+    <LatestTitle>Ab Aeterno</LatestTitle>
+    <LatestAbsoluteEpisode />
+    <NextEpisode>10</NextEpisode>
+    <NextAirtime>Mar/30/2010</NextAirtime>
+    <NextTitle>The Package</NextTitle>
+    <NextAbsoluteEpisode />
+    <Format />
+    <Language />
+    <SearchBy>Season x Episode</SearchBy>
+    <ShowURL>http://www.tvrage.com/Lost</ShowURL>
+    <WeeklyAirtime>Mar/30/2010 Tuesday 09:00 pm</WeeklyAirtime>
+    <LastUpdate>3/26/2010 10:42:50 AM</LastUpdate>
+    <NextSeason>06</NextSeason>
+  </Show>
+  <Show>
+    <Name>MythBusters</Name>
+    <LocalSeason>07</LocalSeason>
+    <LocalEpisode>24</LocalEpisode>
+    <LatestSeason>08</LatestSeason>
+    <LatestEpisode>01</LatestEpisode>
+    <LatestAirtime>Mar/24/2010</LatestAirtime>
+    <LatestTitle>Soda Cup Killer</LatestTitle>
+    <LatestAbsoluteEpisode />
+    <NextEpisode>02</NextEpisode>
+    <NextAirtime>Mar/31/2010</NextAirtime>
+    <NextTitle>Dive to Survive</NextTitle>
+    <NextAbsoluteEpisode />
+    <Format />
+    <Language />
+    <SearchBy>Season x Episode</SearchBy>
+    <ShowURL>http://www.tvrage.com/MythBusters</ShowURL>
+    <WeeklyAirtime>Mar/31/2010 Wednesday 09:00 pm</WeeklyAirtime>
+    <LastUpdate>3/26/2010 10:42:50 AM</LastUpdate>
+    <NextSeason>08</NextSeason>
+  </Show>
+  <Show>
+    <Name>Survivor</Name>
+    <LocalSeason>20</LocalSeason>
+    <LocalEpisode>04</LocalEpisode>
+    <LatestSeason>20</LatestSeason>
+    <LatestEpisode>06</LatestEpisode>
+    <LatestAirtime>Mar/24/2010</LatestAirtime>
+    <LatestTitle>Banana Etiquette</LatestTitle>
+    <LatestAbsoluteEpisode />
+    <NextEpisode>07</NextEpisode>
+    <NextAirtime>Apr/01/2010</NextAirtime>
+    <NextTitle>TBA</NextTitle>
+    <NextAbsoluteEpisode />
+    <Format />
+    <Language />
+    <SearchBy>Season x Episode</SearchBy>
+    <ShowURL>http://www.tvrage.com/Survivor</ShowURL>
+    <WeeklyAirtime>Apr/01/2010 Thursday 08:00 pm</WeeklyAirtime>
+    <LastUpdate>3/26/2010 10:42:51 AM</LastUpdate>
+    <NextSeason>20</NextSeason>
+  </Show>
+  <Show>
+    <Name>Fringe</Name>
+    <LocalSeason>02</LocalSeason>
+    <LocalEpisode>15</LocalEpisode>
+    <LatestSeason>02</LatestSeason>
+    <LatestEpisode>15</LatestEpisode>
+    <LatestAirtime>Feb/04/2010</LatestAirtime>
+    <LatestTitle>Jacksonville</LatestTitle>
+    <LatestAbsoluteEpisode />
+    <NextEpisode>16</NextEpisode>
+    <NextAirtime>Apr/01/2010</NextAirtime>
+    <NextTitle>Peter</NextTitle>
+    <NextAbsoluteEpisode />
+    <Format />
+    <Language />
+    <SearchBy>Season x Episode</SearchBy>
+    <ShowURL>http://www.tvrage.com/Fringe</ShowURL>
+    <WeeklyAirtime>Apr/01/2010 Thursday 09:00 pm</WeeklyAirtime>
+    <LastUpdate>3/26/2010 10:42:51 AM</LastUpdate>
+    <NextSeason>02</NextSeason>
+  </Show>
+  <Show>
+    <Name>Smallville</Name>
+    <LocalSeason>09</LocalSeason>
+    <LocalEpisode>14</LocalEpisode>
+    <LatestSeason>09</LatestSeason>
+    <LatestEpisode>14</LatestEpisode>
+    <LatestAirtime>Feb/26/2010</LatestAirtime>
+    <LatestTitle>Conspiracy</LatestTitle>
+    <LatestAbsoluteEpisode />
+    <NextEpisode>15</NextEpisode>
+    <NextAirtime>Apr/02/2010</NextAirtime>
+    <NextTitle>Escape</NextTitle>
+    <NextAbsoluteEpisode />
+    <Format />
+    <Language />
+    <SearchBy>Season x Episode</SearchBy>
+    <ShowURL>http://www.tvrage.com/Smallville</ShowURL>
+    <WeeklyAirtime>Apr/02/2010 Friday 08:00 pm</WeeklyAirtime>
+    <LastUpdate>3/26/2010 10:42:51 AM</LastUpdate>
+    <NextSeason>09</NextSeason>
+  </Show>
+  <Show>
+    <Name>House</Name>
+    <LocalSeason>06</LocalSeason>
+    <LocalEpisode>14</LocalEpisode>
+    <LatestSeason>06</LatestSeason>
+    <LatestEpisode>15</LatestEpisode>
+    <LatestAirtime>Mar/15/2010</LatestAirtime>
+    <LatestTitle>Black Hole</LatestTitle>
+    <LatestAbsoluteEpisode />
+    <NextEpisode>16</NextEpisode>
+    <NextAirtime>Apr/12/2010</NextAirtime>
+    <NextTitle>Lockdown</NextTitle>
+    <NextAbsoluteEpisode />
+    <Format />
+    <Language />
+    <SearchBy>Season x Episode</SearchBy>
+    <ShowURL>http://www.tvrage.com/House</ShowURL>
+    <WeeklyAirtime>Apr/12/2010 Monday 08:00 pm</WeeklyAirtime>
+    <LastUpdate>3/26/2010 10:42:54 AM</LastUpdate>
+    <NextSeason>06</NextSeason>
+  </Show>
+</TVSeries>

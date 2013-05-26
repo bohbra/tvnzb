@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tvNZBService", "tvNZB\tvNZBService.csproj", "{8CA40E06-94A5-4083-B7A6-204BBC04E10C}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "tvNZBWeb", "tvNZBWeb\", "{FE514CB4-7C24-4ACF-89B9-33009998350A}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv3.5"
+		Debug.AspNetCompiler.VirtualPath = "/tvNZBWeb"
+		Debug.AspNetCompiler.PhysicalPath = "tvNZBWeb\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\tvNZBWeb\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/tvNZBWeb"
+		Release.AspNetCompiler.PhysicalPath = "tvNZBWeb\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\tvNZBWeb\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "20761"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|.NET = Debug|.NET
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Release|.NET = Release|.NET
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8CA40E06-94A5-4083-B7A6-204BBC04E10C}.Debug|.NET.ActiveCfg = Debug|Any CPU
+		{8CA40E06-94A5-4083-B7A6-204BBC04E10C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CA40E06-94A5-4083-B7A6-204BBC04E10C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CA40E06-94A5-4083-B7A6-204BBC04E10C}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{8CA40E06-94A5-4083-B7A6-204BBC04E10C}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{8CA40E06-94A5-4083-B7A6-204BBC04E10C}.Release|.NET.ActiveCfg = Release|Any CPU
+		{8CA40E06-94A5-4083-B7A6-204BBC04E10C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CA40E06-94A5-4083-B7A6-204BBC04E10C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CA40E06-94A5-4083-B7A6-204BBC04E10C}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{8CA40E06-94A5-4083-B7A6-204BBC04E10C}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{FE514CB4-7C24-4ACF-89B9-33009998350A}.Debug|.NET.ActiveCfg = Debug|Any CPU
+		{FE514CB4-7C24-4ACF-89B9-33009998350A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE514CB4-7C24-4ACF-89B9-33009998350A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE514CB4-7C24-4ACF-89B9-33009998350A}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{FE514CB4-7C24-4ACF-89B9-33009998350A}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{FE514CB4-7C24-4ACF-89B9-33009998350A}.Release|.NET.ActiveCfg = Debug|Any CPU
+		{FE514CB4-7C24-4ACF-89B9-33009998350A}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE514CB4-7C24-4ACF-89B9-33009998350A}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{FE514CB4-7C24-4ACF-89B9-33009998350A}.Release|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{FE514CB4-7C24-4ACF-89B9-33009998350A}.Release|Mixed Platforms.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

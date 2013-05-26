@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <ShowsXmlLocation></ShowsXmlLocation>
+  <NewzbinUserName></NewzbinUserName>
+  <NewzbinPassword></NewzbinPassword>
+  <ServerAddress></ServerAddress>
+  <ApiKey></ApiKey>
+</Config>
